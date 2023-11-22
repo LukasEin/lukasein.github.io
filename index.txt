@@ -3,13 +3,13 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
-Web developer
+Lukas Einramhof
+Scientific Intern @ ISTA
 
 Show Contacts
 
 Email
-richard@example.com
+lukas.einramhof@gmail.com
 
 Phone
 +1 (213) 352-2795
