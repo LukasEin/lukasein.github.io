@@ -2,7 +2,7 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Lukas Einramhof
 Lukas Einramhof
 Scientific Intern @ ISTA
 
@@ -11,22 +11,17 @@ Show Contacts
 Email
 lukas.einramhof@gmail.com
 
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
+Github
+LukasEin
 
 Location
-Sacramento, California, USA
+Vienna, Austria
 
 # navbar
 
 About
 Resume
-Portfolio
-Blog
-Contact
+Projects
 
 # about
 
